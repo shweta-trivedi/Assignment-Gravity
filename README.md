@@ -9,31 +9,24 @@ Answer: Please find folder /Solution- Question 2
 
 ## Question 4: React Build a Dynamic To-Do List Application in React.
 Answer:  
-
+![image](https://github.com/user-attachments/assets/a272d5ef-aa55-41ea-8cc8-f213155e11ce)
 
 # Objective:
 
-Create a React application that allows users to manage a to-do list with the following features:
+A React application that allows users to manage a to-do list with the following features:
 
 Add new tasks
-
 Mark tasks as complete
-
 Delete tasks
-
 Filter tasks by all, completed, and pending
-
 Persist tasks in the local storage so that they are retained after a page refresh
 
 ## Available Scripts
 
-In the project directory, you can run:
+To view run:
 
 ### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-
 
