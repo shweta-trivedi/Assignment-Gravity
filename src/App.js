@@ -9,7 +9,7 @@ const TodoApp = () => {
   const [tasks, setTasks] = useState([]);
   const [filter, setFilter] = useState('all'); // 'all', 'completed', 'pending'
 
-  useEffect(() => {
+   useEffect(() => {
     const storedTasks = JSON.parse(localStorage.getItem('tasks')) || [];
     setTasks(storedTasks);
   }, []);
