@@ -1,15 +1,5 @@
 
-# Assignment for MERN role <> Gravity
-
-## Question 1: DSA 
-Answer: Please find folder /Solution- Question 1
-
-## Question 3: MongoDB Aggregation 
-Answer: Please find folder /Solution- Question 2
-
-## Question 4: React Build a Dynamic To-Do List Application in React.
-Answer:  
-![image](https://github.com/user-attachments/assets/a272d5ef-aa55-41ea-8cc8-f213155e11ce)
+## A Dynamic To-Do List Application in React.
 
 # Objective:
 
